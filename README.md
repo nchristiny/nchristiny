@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on getting a few certs, right now AWS Solutions Archictect, CompTIA Security+, and Certified Kubernetes Administrator.
+- 🔭 I’m currently working on certs, namely AWS Solutions Archictect, CompTIA Security+, and Certified Kubernetes Administrator.
 - 🌱 I’m currently learning how to compost and make my own mulch! 
 - 👯 I’m looking to collaborate on Java, JavaScript, Python open-source projects. 
 - 🤔 I’m looking for help with refactoring code smells.
