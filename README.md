@@ -1,4 +1,3 @@
-<a rel="me" href="https://infosec.exchange/@chileannick"></a>
 ### Hi there 👋
 
 - 🔭 I’m currently working on getting a few certs, right now AWS Solutions Archictect, CompTIA Security+, and Certified Kubernetes Administrator.
@@ -9,3 +8,4 @@
 - 📫 How to reach me: nick@nchristiny.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I've lived in five countries. :relaxed:
+<a rel="me" href="https://infosec.exchange/@chileannick"></a>
