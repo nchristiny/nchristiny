@@ -8,4 +8,3 @@
 - 📫 How to reach me: nick@nchristiny.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I've lived in five countries. :relaxed:
-<a rel="me" href="https://infosec.exchange/@chileannick"></a>
