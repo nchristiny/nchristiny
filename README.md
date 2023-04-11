@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on certs, namely AWS Solutions Archictect, CompTIA Security+, and Certified Kubernetes Administrator.
-- 🌱 I’m currently learning how to compost and make my own mulch! 
+- 🔭 Software Developer, Certified AWS Solutions Archictect - Associate, now working towards CompTIA Security+.
+- 🌱 I love gardening! 
 - 👯 I’m looking to collaborate on Java, JavaScript, Python open-source projects. 
-- 🤔 I’m looking for help with refactoring code smells.
+- 🤔 I’m looking for help with transitioning from dev to AppSec roles.
 - 💬 Ask me about my cats + dog. 
 - 📫 How to reach me: nick@nchristiny.com
 - 😄 Pronouns: He/him
